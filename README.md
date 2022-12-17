@@ -1,2 +1,2 @@
 # Current_Time_React
-Created with CodeSandbox
+It ia a React App Which shoes the current local time.
